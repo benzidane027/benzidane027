@@ -85,7 +85,6 @@
     alt="benzidane027" 
     bg_color=#808080/></p>
 
-<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="benzidane027" /></p>
