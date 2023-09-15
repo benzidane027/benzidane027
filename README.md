@@ -80,6 +80,9 @@
 <br>
 
 <h3>Statistical Data :-(Public repos)</h3>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzidane027&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="benzidane027" /></p>
+<br>
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8"
     alt="benzidane027" 
@@ -89,9 +92,6 @@
 <p>&nbsp;&nbsp;&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="benzidane027"/></p>
 
-<br>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzidane027&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="benzidane027" /></p>
       
 
 [benzidane027](https://github.com/benzidane027)
