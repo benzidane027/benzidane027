@@ -95,6 +95,6 @@
 
       
 <br>
-<p>
+<p align="center">
 [benzidane027](https://github.com/benzidane027)
 </p>
