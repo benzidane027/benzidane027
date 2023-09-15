@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image_01.svg" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_01.svg" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
