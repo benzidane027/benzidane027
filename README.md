@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine Benzidane</h1>
-<h3 align="center">Work at prive company🌟.</h3>
+<h3 align="center">Work at private company🌟.</h3>
 
 <br>
 
@@ -12,9 +12,9 @@
 <p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="adam-pw" width="450" height="400" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
+- 🌱 I’m currently work as odoo devloper at private company
+- ⚡ available for freelancer work
+- 📫 How to reach me **benzidan27@yahoo.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
@@ -87,13 +87,13 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
 <br>
