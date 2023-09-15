@@ -93,8 +93,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="benzidane027"/></p>
 
-      
-<br>
-<p align="center">
-[benzidane027](https://github.com/benzidane027)
-</p>
