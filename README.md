@@ -81,7 +81,7 @@
 
 <h3>Statistical Data :-(Public repos)</h3>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=10"
     alt="benzidane027" 
     bg_color=#808080/></p>
 
