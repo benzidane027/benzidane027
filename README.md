@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="adam-pw" width="450" height="400" /></p>
+<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="adam-pw" width="400" height="300" /></p>
 
 - 🌱 I’m currently work as odoo devloper at private company
 - ⚡ available for freelancer work
