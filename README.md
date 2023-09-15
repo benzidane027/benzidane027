@@ -3,13 +3,13 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=benzidane027&label=Profile%20views&color=0e75b6&style=flat"
+    alt="benzidane027" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="adam-pw" width="400" height="300" /></p>
+<p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="benzidane027" width="400" height="300" /></p>
 
 - 🌱 I’m currently work as odoo devloper at private company
 - ⚡ available for freelancer work
@@ -89,13 +89,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=benzidane027&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="benzidane027" /></p>
 
-<br>
-<br>
-<p></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzidane027&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzidane027&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="benzidane027" /></p>
       
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[benzidane27](https://github.com/benzidane27)
+[benzidane027](https://github.com/benzidane027)
