@@ -32,11 +32,11 @@
   - github actions
 - ⚡ My tools for devlopment:
   - vs code 
-  - android studio
-  - visual studio
+  - android studio 2022
+  - visual studio 2019
   - ubuntu (previously)
   - fedora 38 (currently)
-  
+
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
