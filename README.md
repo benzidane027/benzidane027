@@ -11,10 +11,32 @@
 
 <p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="benzidane027" width="400" height="300" /></p>
 
-- 🌱 I’m currently work as odoo devloper at private company
-- ⚡ available for freelancer work
+- 🌱 I’m currently work as odoo devloper at private company 
 - 📫 How to reach me **benzidan27@yahoo.com**
+- ⚡ available for freelancer work with:
+  - flutter (mobile app)
+  - react (client side)
+  - nodeJs (fullstack web )
+  - php (web site)
+  - pyqt (desktop app with python)
+  - ruby on rails (rest api)
+  - fastapi (rest api)
+  - django (rest api)
+  - odoo (advance odoo python ,basic odoo javascript ,medium odoo xml)
 
+- ⚡ I’m currently try to learn:
+  - advance c++ 
+  - qt c++
+  - the most used aws services
+  - jenkins (ci/cd)
+  - github actions
+- ⚡ My tools for devlopment:
+  - vs code 
+  - android studio
+  - visual studio
+  - ubuntu (previously)
+  - fedora 38 (currently)
+  
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
