@@ -27,6 +27,7 @@
 - ⚡ I’m currently try to learn:
   - advance c++ 
   - qt c++
+  - nextJs
   - the most used aws services
   - jenkins (ci/cd)
   - github actions
