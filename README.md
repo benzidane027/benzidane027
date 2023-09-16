@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently work as odoo devloper at private company 
 - 📫 How to reach me **benzidan27@yahoo.com**
-- ⚡ available for freelancer work with:
+- ⚡ available for freelancer i can work with:
   - flutter (mobile app)
   - react (client side)
   - nodeJs (fullstack web )
