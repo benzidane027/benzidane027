@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine Benzidane</h1>
-<h3 align="center">Work at private company🌟.</h3>
+<h3 align="center">Work as Backend devloper🌟.</h3>
 
 <br>
 
