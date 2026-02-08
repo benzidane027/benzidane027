@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/benzidane027/benzidane027/blob/main/image/image_02.webp" alt="benzidane027" width="400" height="300" /></p>
 
 - 🌱 I’m currently work as odoo devloper at private company 
-- 📫 How to reach me **benzidan27@yahoo.com**
+- 📫 How to reach me **benzidane27@gmail.com**
 - ⚡ available for freelancer i can work with:
   - flutter (mobile app)
   - react (client side)
@@ -36,9 +36,9 @@
   - android studio 2022
   - visual studio 2019
   - ubuntu (previously)
-  - fedora 38 (currently)
+  - fedora 40 (currently)
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 
 <br>
 
